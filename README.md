@@ -1,39 +1,62 @@
 
-# Hassan Tamer Hassan
+<div align="center">
 
-**Computer Science student · Backend Engineering**
+# HASSAN TAMER
 
-> Interested in what happens beneath the surface of software: how systems work, why they're designed the way they are, and what makes them reliable.
+**SOFTWARE ENGINEERING**
 
-I'm a Computer Science student at **Benha University**, currently focused on backend development.
+<br/>
 
-I enjoy understanding the reasoning behind engineering decisions, not just learning how to use the tools. From data management to system architecture, I'm interested in how individual components come together to form reliable software.
+`BACKEND SYSTEMS` &nbsp; / &nbsp; `DATA` &nbsp; / &nbsp; `INFRASTRUCTURE`
 
----
+<br/>
 
-## Currently
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Learning backend development with **Python** and **FastAPI**, while working on my understanding of databases, APIs, and software design through practical projects.
+</div>
 
-## A project
+### ENGINEERING INTERESTS
 
-### [Onramp](https://github.com/hssntmrq/Onramp)
+My attention is drawn to the internal structure of software: architecture, data flow, system behavior, and the decisions that shape reliable software.
 
-A Python-based Telegram bot that collects verified internship and training opportunities in Egypt and delivers them through a scheduled pipeline.
+<br/>
 
-## Areas of interest
+**01 - SOFTWARE STRUCTURE**
 
-- Backend Engineering
-- Software Architecture
-- Databases and Data Management
-- Infrastructure and Reliability
-- Distributed Systems
-- AI Infrastructure
+Backend architecture  
+System design  
+Data management
 
-My current focus is backend engineering. Distributed systems and AI infrastructure are areas I'd like to explore more deeply over time.
+**02 - SYSTEM BEHAVIOR**
 
----
+Performance  
+Reliability  
+Engineering trade-offs
 
-I'd rather understand how something works than just know how to use it.
+**03 - COMPUTING INFRASTRUCTURE**
 
-**[LinkedIn](https://www.linkedin.com/in/hssntmrq/)** · **[Email](mailto:hssntmrq@gmail.com)**
+Distributed systems  
+AI infrastructure
+
+<br/>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### CURRENT WORKING CONTEXT
+
+`PYTHON` &nbsp; `FASTAPI` &nbsp; `DATABASES`
+
+Currently studying backend development, with a focus on understanding how components fit together and how design decisions affect the resulting system.
+
+<br/>
+
+### ENGINEERING RECORD / 001
+
+**ONRAMP**
+
+A scheduled pipeline for collecting verified internship and training opportunities in Egypt and delivering them through Telegram.
+
+[VIEW SOURCE REPOSITORY](https://github.com/hssntmrq/Onramp)
+
+<br/>
+
